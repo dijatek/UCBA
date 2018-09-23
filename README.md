@@ -1,3 +1,10 @@
+#Github rules
+- Use branches (Issue # is ok or feature)
+- Pull development before you push
+- Put pull request on Slack
+- Default branch is development
+- Master is for production releases
+
 # UCBA
 Notes and eventual project home for UCF Coding Bootcamp Alumni Meetup
 
