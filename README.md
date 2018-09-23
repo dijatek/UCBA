@@ -37,3 +37,48 @@ Open source application to give back to the community
   -- $$ Calculation (Kilowatt hours based of historical data - bill :)
 
 UCF Coding Bootcamp: HTML, JavaScript, jQuery, Firebase, MySQL, Node, Express, Bootstrap, React, Mongo DB, Test Driven Development, git, (optional- Laravel/PHP, Python)
+
+
+1. Efficiency
+- 
+
+2. Sprint Money
+- Rami
+- Dan
+
+3. Tutoring / Peer Mentoring / Code Cheerleading
+- William (What is MVP?)
+- Alex
+- Adit
+- Mitchell
+- Mark
+- Karina
+- Jodi
+
+React/Node/Express - Prettier
+MySql Sequelize
+Material UI
+Trello Board (Jira ???)
+Slack
+Github VC
+Lucid Chart
+
+
+Requirements, Use Cases: Providing a platform for learners to connect with teachers/mentors
+
+Learners
+- Karina
+- Adit
+- Alex
+
+Teachers
+- Mark
+- Mitchell
+- William
+
+Admin: Preset - request additional topics
+- Rami
+- Dan
+
+Superwoman
+- Jodi
