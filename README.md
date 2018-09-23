@@ -24,12 +24,7 @@ Open source application to give back to the community
 - Mentor to a young/old person (Recent college graduates) *
   -- Tutoring
   -- Technical Interviews/Role Playing
-- School governor *
-- Befriend a lonely older person *
-- Hospital visitor *
 - Conservation volunteer *  ( Parks & Rec )
-- Community project worker *
-- Charity shop assistant *
 
 - Make money
   -- Hourly compound interest negotiation/compensation `git commit -m "LAANC-105 #time 2h 25m comment goes here"` 
